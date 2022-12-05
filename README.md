@@ -1,7 +1,7 @@
 ### Hi friends 👋
 
-🔭 I’m currently working on a few exciting projects. <br>
-🌱 I’m currently learning all there is to frontend development.<br><br>
+🔭 I’m currently working on my portfolio, and an exciting project. <br>
+🌱 I’m currently learning all there is to know about frontend development.<br><br>
 
 🕵️ Feel free to look around!
 
