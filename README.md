@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on my portfolio, and an exciting project. <br>
 🌱 I’m currently learning all there is to know about frontend development.<br>
-📫 How to reach me: marby52449@stud.noroff.no<br><br>
+📫 How to reach me: margrethe.developer@gmail.com<br><br>
 
 🕵️ Feel free to look around!
 
