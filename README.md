@@ -8,7 +8,7 @@
 
 ## About me 
 <!-- TO DO: add more details about me later -->
-📍 Currently located in Oslo, Norway.<br>
+📍 Located in Oslo, Norway.<br>
 🏠 Originally from Trondheim, Norway.<br>
 🧗‍♀️ Hobbies include climbing, gym, creating my own coding projects, stand up/improv comedy, cooking, hiking and more.<br>
 🤹‍♀️ I am changing my career path from social work to frontend development, because I love finding solutions, learning and being creative.<br>
