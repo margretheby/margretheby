@@ -1,7 +1,7 @@
 ### Hi friends 👋
 
 🔭 I’m currently working on my portfolio, and an exciting project. <br>
-🌱 I’m currently learning all there is to know about frontend development.<br>
+🌱 I’m currently learning CSS frameworks and JavaScript.<br>
 📫 How to reach me: margrethe.developer@gmail.com<br><br>
 
 🕵️ Feel free to look around!
