@@ -1,7 +1,7 @@
 ### Hi friends 👋
 
 🔭 I’m currently working on an exciting project. <br>
-🌱 I’m currently learning JavaScript, destructuring objects and array methods.<br>
+🌱 I’m currently learning JavaScript, and rendering HTML safely with information from APIs.<br>
 📫 How to reach me: margrethe.developer@gmail.com<br><br>
 
 🕵️ Feel free to look around!
