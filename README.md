@@ -1,7 +1,7 @@
 ### Hi friends 👋
 
-🔭 I’m currently working on my portfolio, and an exciting project. <br>
-🌱 I’m currently learning CSS frameworks and JavaScript.<br>
+🔭 I’m currently working on an exciting project. <br>
+🌱 I’m currently learning JavaScript, destructuring objects and array methods.<br>
 📫 How to reach me: margrethe.developer@gmail.com<br><br>
 
 🕵️ Feel free to look around!
