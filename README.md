@@ -1,6 +1,6 @@
 ### Hi friends 👋
 
-🔭 I’m currently working on an exciting project. <br>
+🔭 I’m currently working on renewing the design of a client's website. <br>
 🌱 I’m currently learning JavaScript, and rendering HTML safely with information from APIs.<br>
 📫 How to reach me: margrethe.developer@gmail.com<br><br>
 
