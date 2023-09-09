@@ -1,7 +1,7 @@
 ### Hi friends 👋
 
 🔭 I’m currently working on renewing the design of a client's website. <br>
-🌱 I’m currently learning JavaScript, and rendering HTML safely with information from APIs.<br>
+🌱 I’m currently learning React.<br>
 📫 How to reach me: margrethe.developer@gmail.com<br><br>
 
 🕵️ Feel free to look around!
