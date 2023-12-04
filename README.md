@@ -1,6 +1,6 @@
 ### Hi friends 👋
 
-🔭 I’m currently working on my project exam 2. <br>
+🔭 I’m currently working on my portfolio. <br>
 🌱 I’m currently learning C#.<br>
 📫 How to reach me: margrethe.developer@gmail.com<br><br>
 
@@ -10,8 +10,5 @@
 <!-- TO DO: add more details about me later -->
 📍 Located in Oslo, Norway.<br>
 🏠 Originally from Trondheim, Norway.<br>
-🧗‍♀️ Hobbies include climbing, gym, creating my own coding projects, stand up/improv comedy, cooking, hiking and more.<br>
-🤹‍♀️ I am changing my career path from social work to frontend development, because I love finding solutions, learning and being creative.<br>
-⚡ Fun fact: I've had an interest for designing and coding websites since I was 13 years old, and took two courses related to information technology in high school.<br><br>
-
-
+🧗‍♀️ Hobbies include climbing, gym, creating new coding projects, stand up/improv comedy, cooking, hiking and more.<br>
+🤹‍♀️ I am changing career from social work to frontend development, because I love finding solutions, learning and being creative.<br><br>
